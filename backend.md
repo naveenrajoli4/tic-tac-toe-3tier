@@ -33,9 +33,8 @@ mkdir /app
 Download the application code from github and paste it on /app directory.
 
 ```
-cd /tmp
 git clone <url>
-mv /home/ec2-user/game/backend/* /usr/share/nginx/html/
+mv /home/ec2-user/tic-tac-toe-3tier/backend/* /app/
 
 ```
 
