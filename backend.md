@@ -35,7 +35,7 @@ Download the application code from github and paste it on /app directory.
 ```
 cd /tmp
 git clone <url>
-mv /tmp/game/* /app/
+mv /home/ec2-user/game/backend/* /usr/share/nginx/html/
 
 ```
 
