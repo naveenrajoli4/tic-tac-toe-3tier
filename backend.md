@@ -32,6 +32,13 @@ mkdir /app
 ```
 Download the application code from github and paste it on /app directory.
 
+```
+cd /tmp
+git clone <url>
+mv /tmp/game/* /app/
+
+```
+
 Lets download the dependencies.
 
 ```
