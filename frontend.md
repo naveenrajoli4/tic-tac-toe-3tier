@@ -28,9 +28,8 @@ rm -rf /usr/share/nginx/html/*
 
 Download the frontend content
 ```
-cd /tmp
 git clone <url>
-mv /home/ec2-user/game/frontend/* /usr/share/nginx/html/
+mv /home/ec2-user/tic-tac-toe-3tier/frontend/* /usr/share/nginx/html/
 ```
 ```
 cd /usr/share/nginx/html
